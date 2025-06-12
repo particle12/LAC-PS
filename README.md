@@ -1,5 +1,5 @@
 # LAC-PS
-This is the code implementation of the paper “LAC-PS: A Light Direction Selection Policy under the Accuracy Constraint for Photometric Stereo”
+This is the code implementation of the paper “LAC-PS”
 
 ## dataset
 Download the synthetic dataset for training and testing from ReLeaPS: https://drive.google.com/file/d/1hZtjtY8DMOk-sITT_AoZzBs5oZzVdgkk/view  
